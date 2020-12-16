@@ -1,7 +1,7 @@
 # LinkedList-Application
 
 
-		POKEMON KART OYUNU PROJESİ
+		LINKED LIST APPLICATION README
 
    -Proje Hakkında
 
