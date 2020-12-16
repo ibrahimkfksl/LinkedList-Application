@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1577306694 source:c:\users\lightbringer\desktop\prolab3deneme\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577304869 source:c:\users\lightbringer\desktop\prolab3deneme\prolab3 - kopya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577628448 source:c:\users\lightbringer\desktop\prolab3final\prolab3\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577631634 source:c:\users\lightbringer\desktop\prolab3final\prolab3\prolab3-proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
